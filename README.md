@@ -47,4 +47,5 @@ This bubble chart shows the areas in which the most bike trips start from.
 ![top_ending_locations](https://user-images.githubusercontent.com/103215123/182048567-4359d9eb-d192-4fbb-a6b8-432b92afdbf6.png)
 This bubble chart shows the areas in which the most bike trips end.  
 
-
+## Summary
+The Tableau story visualizes the Citibike data showing how the Citibike program is used by riders in New York City.  
