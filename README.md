@@ -48,4 +48,4 @@ This bubble chart shows the areas in which the most bike trips start from.
 This bubble chart shows the areas in which the most bike trips end.  
 
 ## Summary
-The Tableau story visualizes the Citibike data showing how the Citibike program is used by riders in New York City.  
+The Tableau story visualizes the Citibike data showing how the Citibike program is used by riders in New York City.  It illustrates the busiest times of day and days of the week, as well as the type of user and the gender of the user.  The Citibike data also shows the busiest locations where the bike trips begin and end.  Additional visualizations that may be useful for this analysis are looking at specific holidays or looking at number of rides in other seasons, to see if there is a sharp decline in bike trips as there are seasonal changes in weather conditions or temperatures. 
